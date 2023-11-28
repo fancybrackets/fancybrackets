@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @susluparantez
+- 👋 Hi, I’m Muhittin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 📫 How to reach me: instagram/mkeser_
